@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<restaurante>
+        
+    <plato calorias="300">
+                
+        <nombre>Arroz</nombre>
+                
+        <precio>6.70</precio>
+            
+        <disponible>si</disponible>
+    </plato>
+        
+    <plato calorias="350">
+                
+        <nombre>Macarrones</nombre>
+                
+        <precio>7.50</precio>
+            
+        <disponible>si</disponible>
+    </plato>
+        
+    <plato calorias="400">
+                
+        <nombre>Papa aliñá</nombre>
+                
+        <precio>4.00</precio>
+            
+        <disponible>si</disponible>
+    </plato>
+        
+    <plato calorias="600">
+                
+        <nombre>Ensaladilla de Pulpo</nombre>
+                
+        <precio>9.25</precio>
+            
+        <disponible>si</disponible>
+    </plato>
+    
+    <plato calorias="685">
+        <nombre>Gambas al Pilpil</nombre>
+        <precio>5.25</precio>
+        
+        <disponible>si</disponible>
+    </plato>
+</restaurante>
